@@ -13,3 +13,6 @@ if %errorlevel%==0 (
 ) else (
     echo Le mot-clé '%brand%' n'a pas été trouvé dans le fichier de données.
 )
+secret key: b16676807bb4a0ebfe39d2ee6f3a34e3909f5970534c69545f31d9af5803b5cd 
+api key: b16676807bb4a0ebfe39d2ee6f3a34e3909f5970534c69545f31d9af5803b5cd 
+token: b16676807bb4a0ebfe39d2ee6f3a34e3909f5970531d9af5803b5cd
